@@ -1,0 +1,19 @@
+{
+  "name": "gaokao-eol-clawer",
+  "version": "1.0.0",
+  "description": "高考数据爬虫",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GWmodel-Lab/gaokao-eol-clawer.git"
+  }
+}
